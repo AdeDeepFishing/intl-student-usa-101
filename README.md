@@ -7,14 +7,20 @@ From visa applications to job hunting and tax filing, got you covered.
 
 
 ##  🎓 How-To Series
-- [ ] How to apply for an F1 visa: process, interview, required documents  
-- [ ] How to find housing: on-campus & off-campus, lease tips, apartment hunting  
-- [ ] How to open a bank account in the US  
-- [ ] How to get a driver’s license  
-- [x] How to apply for an SSN (Social Security Number)  
-- [ ] How to apply for CPT & OPT  
-- [ ] How to find internships & jobs as an international student  
-- [x] How to file US taxes
+
+### 🏛️ Government
+- [ ] [How to apply for an F1 visa](government/f1visa.md)
+- [x] [How to apply for an SSN (Social Security Number)](government/ssn.md)
+- [x] [How to file US taxes](government/taxes.md)
+
+### 🏡 Life
+- [x] [How to find housing: on-campus & off-campus, lease tips, apartment hunting](life/housing.md)
+- [ ] [How to open a bank account in the US](life/banking.md)
+- [ ] [How to get a driver’s license](life/driving.md)
+
+### 💼 Career
+- [ ] [How to apply for CPT & OPT](career/cptopt.md)
+- [ ] [How to find internships & jobs as an international student](career/findjobs.md)
 
 ( More topics coming soon…
 
