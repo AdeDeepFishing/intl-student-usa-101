@@ -11,7 +11,7 @@ From visa applications to job hunting and tax filing, got you covered.
 - [ ] How to find housing: on-campus & off-campus, lease tips, apartment hunting  
 - [ ] How to open a bank account in the US  
 - [ ] How to get a driver’s license  
-- [ ] How to apply for an SSN (Social Security Number)  
+- [x] How to apply for an SSN (Social Security Number)  
 - [ ] How to apply for CPT & OPT  
 - [ ] How to find internships & jobs as an international student  
 - [ ] How to file US taxes
