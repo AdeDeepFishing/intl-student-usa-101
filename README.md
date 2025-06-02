@@ -16,7 +16,7 @@ From visa applications to job hunting and tax filing, got you covered.
 ### 🏡 Life
 - [x] [How to find housing: on-campus & off-campus, lease tips, apartment hunting](life/housing.md)
 - [x] [How to open a bank account in the US](life/banking.md)
-- [ ] [How to get a driver’s license](life/driving.md)
+- [x] [How to get a driver’s license](life/driving.md)
 
 ### 💼 Career
 - [ ] [How to apply for CPT & OPT](career/cptopt.md)
